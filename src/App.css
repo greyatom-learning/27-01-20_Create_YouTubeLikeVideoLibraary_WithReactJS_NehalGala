@@ -1,0 +1,10 @@
+.main-container {
+    justify-content: center;
+    padding: 20px;
+}
+
+.main-container .app-content {
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 30px;
+}
